@@ -3,7 +3,7 @@ Looking for edges in a gray-scaled picture using a Sobel Filter C implementation
 I would use Adobe software to gray scale an image and save it as a raw binary file, for filtering.
 
 Original Image of a bird:
-![original_image](https://postimg.org/image/na2bvtap5/)
+![original_image](https://s4.postimg.org/na2bvtap5/bird.jpg)
 
 Modified image with E55 filter:
 ![E55_image](https://postimg.org/image/ynov70l7t/)
